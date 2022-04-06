@@ -1,4 +1,4 @@
-# Todolist-v2
+# Todolist
 For backend  I used Node.js with Express + Ejs. 
 Database - MongoDB.
 
